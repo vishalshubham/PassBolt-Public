@@ -3,7 +3,7 @@ About PassBolt
 
 Important Note:
 -----------
-This project is kept private because we are planning to file for a patent. A description of the project has been provided below.
+This project is kept private because we are planning to file for a patent. A description of the project has been provided below. Also see the screenshots below. 
 
 Inspiration: 
 -----------
