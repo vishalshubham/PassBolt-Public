@@ -29,3 +29,11 @@ Automation frameworks such as Selenium and HttpUnit NFC communication using Andr
 What's next for PassBolt: 
 -----------
 A "share password feature" which will allow a user to share his/her password for a limited time without revealing it.
+
+##Screen 1: 
+Login screen with NFC Tap based login functionality
+![Alt text](https://github.com/vishalshubham/PassBolt-Public/blob/master/Screenshots/1.jpg "Optional title")
+
+##Screen 2: 
+Options for the user to click and have the website logged in on his computer
+![Alt text](https://github.com/vishalshubham/PassBolt-Public/blob/master/Screenshots/1.jpg "Optional title")
